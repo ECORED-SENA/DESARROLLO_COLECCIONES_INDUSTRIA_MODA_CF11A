@@ -1,0 +1,97 @@
+.banner-principal__img
+  animation-name: swing
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #339CE9
+  padding: 6px 0px 6px 10px     
+  
+.BorTit_table
+  border-left: 5px solid #EA3065
+  padding: 6px 0px 6px 10px    
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #BF3976
+      span 
+        color: white
+        font-weight: 700
+        font-size: small
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 10px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 10px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px  
+
+.bloque-texto-a.color-secundario
+  background-color: #E8E8E8 !important
+  
+.bloque-texto-a.color-secundario::before
+  background-color: #7CC5FF !important      
+
+.tabla-a.color-secundario thead 
+    border-color: #EA3065 !important 
+
+.bg-cajon-color-1
+  background-color: lighten(#339CE9,30%) !important
+
+.cajon.color-primario
+  background-color: #F2D6E3 !important
+
+.text-just
+  display: flex
+  align-items: center      
+
+.border
+  border: 10px solid white !important
