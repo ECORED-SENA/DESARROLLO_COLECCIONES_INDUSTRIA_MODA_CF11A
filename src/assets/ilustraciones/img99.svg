@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="525" height="741" viewBox="0 0 525 741">
+  <g id="Grupo_57678" data-name="Grupo 57678" transform="translate(-222 -3475)">
+    <rect id="Rectángulo_6764" data-name="Rectángulo 6764" width="525" height="741" transform="translate(222 3475)" fill="#fff"/>
+    <g id="Rectángulo_6765" data-name="Rectángulo 6765" transform="translate(251 3501)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="467" height="676" stroke="none"/>
+      <rect x="0.5" y="0.5" width="466" height="675" fill="none"/>
+    </g>
+    <text id="COSTO_DE_INSUMOS" data-name="COSTO DE INSUMOS" transform="translate(406 3525)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">COSTO DE INSUMOS</tspan></text>
+    <text id="MUESTRA_DE_TELA" data-name="MUESTRA DE TELA" transform="translate(426 3740)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">MUESTRA DE TELA</tspan></text>
+    <text id="OBSERVACIONES" transform="translate(266 4014)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">OBSERVACIONES</tspan></text>
+    <text id="INSUMOS" transform="translate(301 3547)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">INSUMOS</tspan></text>
+    <text id="PROVEEDOR" transform="translate(448 3549)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">PROVEEDOR</tspan></text>
+    <text id="COSTO_TOTAL_DE_INSUMOS" data-name="COSTO TOTAL DE INSUMOS" transform="translate(273 3701)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">COSTO TOTAL DE INSUMOS</tspan></text>
+    <text id="_" data-name="$" transform="translate(577 3701)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">$</tspan></text>
+    <text id="PRECIO" transform="translate(621 3549)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">PRECIO</tspan></text>
+    <line id="Línea_429" data-name="Línea 429" x1="467" transform="translate(251 3535)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_434" data-name="Línea 434" x1="467" transform="translate(251 3592)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_437" data-name="Línea 437" x1="467" transform="translate(251 3668)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_430" data-name="Línea 430" x1="467" transform="translate(251 3573)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_438" data-name="Línea 438" x1="467" transform="translate(251 3649)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_432" data-name="Línea 432" x1="467" transform="translate(251 3630)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_435" data-name="Línea 435" x1="467" transform="translate(251 3706)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_441" data-name="Línea 441" x1="467" transform="translate(251 3988)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_431" data-name="Línea 431" x1="467" transform="translate(251 3554)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_433" data-name="Línea 433" x1="467" transform="translate(251 3611)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_436" data-name="Línea 436" x1="467" transform="translate(251 3687)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_439" data-name="Línea 439" y1="152" transform="translate(406 3535)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_440" data-name="Línea 440" y1="152" transform="translate(567 3535)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectángulo_6769" data-name="Rectángulo 6769" transform="translate(406 3716)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="161" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="35" fill="none"/>
+    </g>
+  </g>
+</svg>

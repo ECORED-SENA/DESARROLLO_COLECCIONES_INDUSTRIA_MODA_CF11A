@@ -20,7 +20,7 @@
     
     .row.justify-content-center.align-items-center.mt-5       
       .col-lg-10  
-        .BorTit_table(data-aos="fade-left") Software utilizado para diseño
+        .BorTit_table(data-aos="fade-left") Tabla 1 Software utilizado para diseño
         .tabla-a.color-secundario.mt-3(data-aos="zoom-in-down") 
           table
             caption Nota. https://bit.ly/3isyFpG
