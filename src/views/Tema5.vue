@@ -26,11 +26,11 @@
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Dibujo Geometral")
         h4 Dibujo Geometral
-        p Es el dibujo plano, el cual es el esquema exacto de la prenda indicando cuales son los puntos importantes de esta a través de lupas, cotas de medida y flechas también detalla cómo quedará confeccionada y donde se ven todos los detalles de confección. 
+        p Es el dibujo plano, el cual es el esquema exacto de la prenda indicando cuáles son los puntos importantes de esta a través de lupas, cotas de medida y flechas también detalla cómo quedará confeccionada y donde se ven todos los detalles de confección. 
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Descripción de materiales")
         h4 Descripción de materiales e insumos
-        p Son todos los materiales e insumos a utilizar en la fabricación de la prenda, los insumos utilizados, cantidad que se gasta en una sola prenda La composición de la tela, entre otros. 
+        p Son todos los materiales e insumos a utilizar en la fabricación de la prenda, los insumos utilizados, cantidad que se gasta en una sola prenda, la composición de la tela, entre otros. 
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Maquinaria a utilizar")
         h4 Maquinaria a utilizar
@@ -52,24 +52,24 @@
 
     img.img-a.img-t(data-aos="slide-down")(src='@/assets/ilustraciones/img97.svg', alt='') 
 
-    p.mt-5(data-aos="fade-down") En orden lógico y estricto de lo descrito, se detallan las operaciones a realizar, anotando la máquina y el aditamento que se debe utilizar para realizar con calidad la prenda de principio a fin. Para construir la ficha técnica en los softwares descritos, es similar ya que se utilizan figuras geométricas y textos, para ello se crea un rectángulo del tamaño de la hoja dejando una margen de 1 cm por todos los lados y crear rectángulos y líneas del tamaño necesario para la distribución de la ficha, calculando la distancias para quede funcional y acorde a las necesidades. A continuación, se referencias modelos de fácil construcción:
+    p.mt-5(data-aos="fade-down") En orden lógico y estricto de lo descrito, se detallan las operaciones a realizar, anotando la máquina y el aditamento que se debe utilizar para realizar con calidad la prenda de principio a fin. Para construir la ficha técnica en los #[i softwares] descritos, es similar, ya que se utilizan figuras geométricas y textos, para ello se crea un rectángulo del tamaño de la hoja dejando una margen de 1 cm por todos los lados y crear rectángulos y líneas del tamaño necesario para la distribución de la ficha, calculando la distancias para que quede funcional y acorde a las necesidades. A continuación, se referencia modelos de fácil construcción:
 
     .row.justify-content-center.align-items-stretch.my-5
       .col-lg-10.bg-cajon-color-1.p-4.border(data-aos="slide-down")
-        .BorTit Figura 57 Ficha técnica Ropero Corel Draw 
+        .BorTit Figura 57 #[i Ficha técnica ropero Corel Draw] 
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img98.svg', alt='')  
 
     .row.justify-content-center.align-items-stretch
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="slide-right")    
-        .BorTit Figura 58 Ficha Costos Insumo Corel Draw
+        .BorTit Figura 58 #[i Ficha Costos Insumo Corel Draw]
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img99.svg', alt='')    
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="slide-left")     
-        .BorTit Figura 59 Ficha Técnica de prenda Corel Draw
+        .BorTit Figura 59 #[i Ficha Técnica de prenda Corel Draw]
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img100.svg', alt='')             
 
     .bloque-texto-d.color-secundario.p-4.mt-5(data-aos="zoom-in")
       .bloque-texto-d__texto
-        p.mb-0 Al momento de realizar los geometrales se utiliza una herramienta en Corel llamada lente el cual nos acerca la parte de la pieza que se quiere acercar. Una lente cambia la forma del área del objeto que está debajo de esta lente, sin cambiar los atributos y propiedades de los objetos. Se pueden aplicar lentes a cualquier objeto en vectores, desde figuras como rectángulos, elipses, o trayectos cerrados o polígonos. Cuando se aplica una lente a un objeto no vectorizado, la lente se convierte en un vector. Además, si por el contrario se usa un lente encima de un mapa de bits, este también se convierte en un mapa de bits. Es uno de los efectos más utilizados y eficaz al realizar fichas técnicas ya que ayudan a certificar la calidad de las operaciones. Otras lupas se hacen directamente mostrando la operación a realizar de la prenda las cuales también dan cuenta de detalles pertinentes a la confección. Otro elemento importante son las líneas de cotas las cuales son utilizadas para incluir las medidas. Esta medida es ubicada en el centro de la cota siguiendo la misma dirección del dibujo estas se expresan en centímetros y a escala real. A continuación, se relacionan fichas con las características descritas. 
+        p.mb-0 Al momento de realizar los geometrales se utiliza una herramienta en Corel llamada lente el cual nos acerca la parte de la pieza que se quiere acercar. Una lente cambia la forma del área del objeto que está debajo de esta lente, sin cambiar los atributos y propiedades de los objetos. Se pueden aplicar lentes a cualquier objeto en vectores, desde figuras como rectángulos, elipses, o trayectos cerrados o polígonos. Cuando se aplica una lente a un objeto no vectorizado, la lente se convierte en un vector. Además, si por el contrario se usa un lente encima de un mapa de bits, este también se convierte en un mapa de bits. Es uno de los efectos más utilizados y eficaz al realizar fichas técnicas, ya que ayudan a certificar la calidad de las operaciones. Otras lupas se hacen directamente mostrando la operación a realizar de la prenda las cuales también dan cuenta de detalles pertinentes a la confección. Otro elemento importante son las líneas de cotas las cuales son utilizadas para incluir las medidas. Esta medida es ubicada en el centro de la cota siguiendo la misma dirección del dibujo estas se expresan en centímetros y a escala real. A continuación, se relacionan fichas con las características descritas. 
 
     .row.justify-content-center.align-items-stretch.my-5
       .col-lg-10
@@ -94,18 +94,24 @@
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-10.bg-cajon-color-1.p-4.border(data-aos="fade-right")
-        .BorTit Figura 60 Ficha Técnica de detalles con lupas
-        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img102.svg', alt='')    
+        .BorTit Figura #[i 60 Ficha Técnica de detalles con lupas]
+        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img102.svg', alt='')
+        figcaption.mt-3 Nota. https://bit.ly/2VwEF7Q
+
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-10.bg-cajon-color-1.p-4.border(data-aos="fade-left")
-        .BorTit Figura 61  Ficha Técnica de costuras
-        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img103.svg', alt='')  
+        .BorTit Figura #[i 61  Ficha Técnica de costuras]
+        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img103.svg', alt='')
+        figcaption.mt-3 Nota. https://bit.ly/3Cnv1Fr
+
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-10.bg-cajon-color-1.p-4.border(data-aos="fade-right")
-        .BorTit Figura 62 Ficha Técnica de cotas y medidas
-        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img104.svg', alt='')                                                      
+        .BorTit Figura #[i 62 Ficha Técnica de cotas y medidas]
+        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img104.svg', alt='')
+        figcaption.mt-3 Nota.  https://bit.ly/3jttvsY
+
 
 </template>
 

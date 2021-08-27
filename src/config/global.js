@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Software de illustration: Illustrator- Corel Draw –Inkscape ',
     descripcionCurso:
-      'El diseño gráfico aplicado al desarrollo de colecciones de moda, es una disciplina que cada vez cuenta con más softwares de ilustración y aplicaciones disponibles tanto para ordenadores como para dispositivos móviles. En este componente está aplicado al uso del software Corel Draw.',
+      'El diseño gráfico aplicado al desarrollo de colecciones de moda, es una disciplina que cada vez cuenta con más <i>softwares</i> de ilustración y aplicaciones disponibles tanto para ordenadores como para dispositivos móviles. En este componente está aplicado al uso del <i>software </i>Corel Draw.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -24,7 +24,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Manejo de herramientas básicas de software ',
+        titulo: 'Manejo de herramientas básicas de <i>software</i> ',
         desarrolloContenidos: true,
       },
       {
@@ -278,7 +278,7 @@ export default {
   complementario: [
     {
       texto:
-        'Marius, A. (2020, 12 julio). Los 100 mejores tutoriales sobre efectos de texto en Illustrator (¡desde principiantes hasta avanzados!). Design & Illustration Envato Tuts+. ',
+        'Marius, A. (2020, 12 julio). <i>Los 100 mejores tutoriales sobre efectos de texto en Illustrator (¡desde principiantes hasta avanzados!)</i>. Design & Illustration Envato Tuts+. ',
       tipo: 'Página web',
       link:
         'https://design.tutsplus.com/es/articles/100-best-illustrator-text-effect-tutorials-for-beginners-beyond--cms-35177 ',
@@ -314,7 +314,42 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Marisol Osorio Beltrán',
+        cargo: 'Líder Sennova',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'María Luisa Yepes Sierra',
+        cargo: 'Instructora',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'Jhon Fernando Jaramillo Taborda',
+        cargo: 'Investigador – Grupo de investigación INAMOD',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia. ',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital. ',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de gestión industrial - Regional Distrito Capital. ',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo ',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital.',
       },
     ],
     desarrolloProducto: [
@@ -322,37 +357,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

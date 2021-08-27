@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="fade-left")
       .titulo-principal__numero
         span 1
-      h1 Manejo de herramientas básicas de software
+      h1 Manejo de herramientas básicas de #[i software]
 
     p(data-aos="fade-down") En los softwares de diseño se trabajan dos tipos principales de gráficos, gráficos vectoriales y mapas de bits.
     .row.justify-content-center.align-items-stretch.mt-5       
@@ -38,7 +38,7 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit Figura 3 Graficación en software 
+        .BorTit Figura 3 #[i Graficación en software] 
         img.img-a.mt-3(data-aos="flip-left")(src='@/assets/ilustraciones/img5.svg', alt='')      
 
     h4.mt-5(data-aos="fade-left") Marcación
@@ -47,7 +47,7 @@
       .col-lg-6.px-0(data-aos="fade-down-right")
         img.img-a(src='@/assets/ilustraciones/img6.png', alt='')
       .col-lg-6.p-4(data-aos="fade-down-left")
-        p Se pueden crear gráficos vectoriales en #[b CorelDRAW, Illustrator e Inkscape]. En cada uno de ellos se pueden importar o colocar mapas de bits en archivos con extensión JPEG, TIFF y hasta PDF añadiéndolos a las mesas de trabajo para vectorizarlos. Todo esto se logra realizando y conjugando el manejo de los programas, de las terminologías de cada uno ya que, pueden tomar nombres diferentes sus herramientas para lograr composiciones y diagramaciones, sin perder el concepto creativo de las piezas gráficas. 
+        p Se pueden crear gráficos vectoriales en #[b CorelDRAW, Illustrator e Inkscape]. En cada uno de ellos se pueden importar o colocar mapas de bits en archivos con extensión JPEG, TIFF y hasta PDF añadiéndolos a las mesas de trabajo para vectorizarlos. Todo esto se logra realizando y conjugando el manejo de los programas, de las terminologías de cada uno, ya que pueden tomar nombres diferentes sus herramientas para lograr composiciones y diagramaciones, sin perder el concepto creativo de las piezas gráficas. 
 
     h4.mt-5(data-aos="fade-left") Configuración interfaz programas de creación gráfica 
 
@@ -73,19 +73,19 @@
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center
         .col-md-12.mb-4.mb-md-0
-          .BorTit Figura 4 Software libre Inkscape
+          .BorTit Figura 4 #[i Software libre Inkscape]
           img.img-a.mt-3(src='@/assets/ilustraciones/ink.svg', alt='') 
 
     ModalA(:abrir-modal.sync="modal2")
       .row.align-items-center
         .col-md-12.mb-4.mb-md-0
-          .BorTit Figura 5 Software Corel Draw
+          .BorTit Figura 5 #[i Software Corel Draw]
           img.img-a.mt-3(src='@/assets/ilustraciones/cor.svg', alt='') 
 
     ModalA(:abrir-modal.sync="modal3")
       .row.align-items-center
         .col-md-12.mb-4.mb-md-0
-          .BorTit Figura 6 Software Illustrator
+          .BorTit Figura 6 #[i Software Illustrator]
           img.img-a.mt-3(src='@/assets/ilustraciones/ill.svg', alt='')                             
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")      
@@ -99,7 +99,7 @@
     .row.justify-content-center.align-items-stretch.mt-5    
       .col-lg-4.img-card-color-1(data-aos="fade-left")    
         .row.justify-content-center.align-items-center.p-4
-          .BorTit.mb-3 Figura 6 Software Illustrator 
+          .BorTit.mb-3 Figura 7 #[i Paleta de Herramientas Software] 
           .col-lg-4.my-3 
             img.img-t.img-a(src='@/assets/ilustraciones/img11.svg', alt='')                
           .col-lg-4.my-3
@@ -121,7 +121,7 @@
 
       .col-lg-9.card-num-text.p-2
         h5.ml Barra de menús
-        p.ml Área que contiene opciones de menú desplegable     
+        p.ml Área que contiene opciones de menú desplegable.     
 
     .row.justify-content-center.align-items-stretch.mt-3(data-aos="fade-right")    
       .col-lg-1.display-mum
@@ -132,7 +132,7 @@
 
       .col-lg-9.card-num-text.p-2
         h5.ml Barra de propiedades
-        p.ml Barra acoplable con comandos relacionados con la herramienta u objeto activos. Por ejemplo, cuando la herramienta Texto se encuentra activa, la Barra de propiedades de texto 
+        p.ml Barra acoplable con comandos relacionados con la herramienta u objeto activos. Por ejemplo, cuando la herramienta texto se encuentra activa, la barra de propiedades de texto. 
 
     .row.justify-content-center.align-items-stretch.mt-3(data-aos="fade-left")    
       .col-lg-1.display-mum
@@ -241,7 +241,7 @@
 
       .col-lg-9.card-num-text.p-2
         h5.ml Explorador de documentos
-        p.ml Áreaa situada en la parte inferior izquierda o en la parte superior de la ventana de aplicación que contiene controles para desplazarse entre páginas y añadir páginas 
+        p.ml Área situada en la parte inferior izquierda o en la parte superior de la ventana de aplicación que contiene controles para desplazarse entre páginas y añadir páginas. 
 
     .row.justify-content-center.align-items-stretch.mt-3(data-aos="fade-left")    
       .col-lg-1.display-mum
@@ -261,7 +261,7 @@
       .col-lg-6(data-aos="fade-down-left") 
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            p.mb-0 Para iniciar un nuevo desarrollo de diseño, se debe crear un documento nuevo. En los programas de diseño vectorial, de maquetación o donde se hace edición de imágenes lo primero que pide al inicio es el tipo de medida del documento a realizar para saber el tamaño de impresión de este. Además, se debe tener en cuenta también que los programas para edición de imágenes manejan resolución de las mismas ya que estos trabajan con base a mapa de bits, es decir, con píxeles (unidad mínima del mapa de bits) Se debe recordar que la resolución es un número determinado de pixeles y determina la cantidad de estos almacenados en el documento y efectivamente la calidad de la imagen.
+            p.mb-0 Para iniciar un nuevo desarrollo de diseño, se debe crear un documento nuevo. En los programas de diseño vectorial, de maquetación o donde se hace edición de imágenes lo primero que pide al inicio es el tipo de medida del documento a realizar para saber el tamaño de impresión de este. Además, se debe tener en cuenta también que los programas para edición de imágenes manejan resolución de las mismas, ya que estos trabajan con base a mapa de bits, es decir, con píxeles (unidad mínima del mapa de bits) Se debe recordar que la resolución es un número determinado de pixeles y determina la cantidad de estos almacenados en el documento y efectivamente la calidad de la imagen.
 
     p.mt-5(data-aos="fade-down") El primer ejemplo es con Adobe Illustrator, una vez abierta la aplicación, se debe ir al menú #[b Archivo/Nuevo] y aparece una ventana de configuración donde se pide las medidas del documento el ancho y alto del mismo. En Corel Draw se hace la misma operación menú #[b Archivo/Nuevo], pero este crea un documento por defecto en A4 o carta que se puede configurar en la barra superior de propiedades en otros tamaños. Si el programa que se va a utilizar es Inkscape, automáticamente se crea un documento que también es configurable desde el menú #[b Archivo/Propiedades del documento]. El atajo o teclado rápido para los 3 programas para crear un documento nuevo es #[b CRTL+N].           
     
@@ -305,17 +305,17 @@ export default {
     mostrarIndicador: true,
     datosSlyder: [
       {
-        titulo: 'Documento nuevo software Illustrator',
+        titulo: 'Figura 8 Documento nuevo software Illustrator',
         imagen: require('@/assets/ilustraciones/img16.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Documento nuevo software Illustrator',
+        titulo: 'Figura 9 Documento nuevo software Illustrator',
         imagen: require('@/assets/ilustraciones/img17.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Documento nuevo software Illustrator',
+        titulo: 'Figura 10 Documento nuevo software Illustrator',
         imagen: require('@/assets/ilustraciones/img18.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

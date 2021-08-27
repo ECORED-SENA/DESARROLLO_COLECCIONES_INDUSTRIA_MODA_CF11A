@@ -10,7 +10,7 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit.mb-3 Figura 11 Documento Nuevo Software Inkscape      
+        .BorTit.mb-3 Figura 11 #[i Documento Nuevo Software Inkscape]      
         .row.justify-content-center.align-items-stretch
           .col-lg-4      
 
@@ -26,7 +26,7 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="slide-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit.mb-3 Figura 12 Objetos geométricos software
+        .BorTit.mb-3 Figura 12 #[i Objetos geométricos software]
         img.img-a.mt-3(data-aos="flip-left")(src='@/assets/ilustraciones/img24.svg', alt='')   
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")      
@@ -43,14 +43,14 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit.mb-3 Figura 13 Herramientas de software
+        .BorTit.mb-3 Figura 13 #[i Herramientas de software]
         img.img-a.mt-3(data-aos="slide-right")(src='@/assets/ilustraciones/img26.svg', alt='') 
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="fade-down-right")
         .row.justify-content-center.align-items-stretch     
           .col-lg-10      
-            .BorTit Figura 14 Trazos
+            .BorTit Figura 14 #[i Trazos]
             img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img27.svg', alt='') 
 
       .col-lg-6.cajon.color-primario.text-just.p-4.border(data-aos="fade-down-left")
@@ -60,7 +60,7 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit.mb-3 Figura 15 Puntos de curva Illustrator vs. Corel
+        .BorTit.mb-3 Figura 15 #[i Puntos de curva Illustrator vs. Corel]
         img.img-a.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img28.svg', alt='')                         
 
     .row.justify-content-center.align-items-stretch.mt-5       
@@ -71,7 +71,7 @@
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="fade-down-left")
         .row.justify-content-center.align-items-stretch     
           .col-lg-10      
-            .BorTit Figura 16 Herramientas de edición y modificación de nodos
+            .BorTit Figura 16 #[i Herramientas de edición y modificación de nodos]
             img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img30.svg', alt='') 
 
     p.mt-5(data-aos="fade-down") En las barras propiedades de edición de curvas se pueden convertir los nodos en asimétricos, en esta edición de curvas se puede añadir, eliminar y convertir los segmentos curvos en rectas o viceversa. Todos ellos facilitan estas modificaciones para conseguir el resultado esperado en el dibujo. 
@@ -92,14 +92,14 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")        
       .col-lg-10.img-card-color-1.p-5
-        .BorTit.mb-3 Figura 20 Iconos y calco de imagen en Corel Draw 
+        .BorTit.mb-3 Figura 20 #[i Iconos y calco de imagen en Corel Draw] 
         img.img-a.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img37.svg', alt='')              
 
     p.mt-5(data-aos="fade-down") Para desarrollar un geometral desde cero con figuras geométricas básicas se procede como se muestra en los siguientes recursos:
 
     .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-8
-        img.img-a(data-aos="flip-down")(src='@/assets/ilustraciones/img44.svg', alt='')   
+        img.img-a(data-aos="flip-down")(src='@/assets/ilustraciones/img44.png', alt='')   
 
     .row.justify-content-center.align-items-center       
       .col-lg-10
@@ -109,18 +109,18 @@
             p Con la herramienta RECTÁNGULO (F6) hacer un rectángulo de 4 cm x 15 cm. Para el pantalón masculino se aumentará 0,5 al ancho
             .row.justify-content-center.align-items-stretch.mt-4       
               .col-lg-6
-                .BorTit.mb-3 Figura 22 Herramienta Rectángulo en Corel Draw  
+                .BorTit.mb-3 Figura 22 #[i Herramienta Rectángulo en Corel Draw ] 
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img51.svg', alt='')     
 
               .col-lg-6
-                .BorTit.mb-3 Figura 23 Herramienta Rectángulo en Corel Draw  
+                .BorTit.mb-3 Figura 23 #[i Herramienta Rectángulo en Corel Draw ]  
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img52.svg', alt='')                          
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 2")
             h4 Paso 2
             .row.justify-content-center.align-items-stretch.mt-4       
               .col-lg-6
-                .BorTit.mb-3 Figura 24 Herramienta Rectángulo con líneas guía en Corel Draw   
+                .BorTit.mb-3 Figura 24 #[i Herramienta Rectángulo con líneas guía en Corel Draw ]  
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img53.svg', alt='') 
               .col-lg-6
                 p Con la herramienta líneas guía, desde estas arrastrando con clic sostenido, crear las líneas básicas del pantalón: Cadera Cintura Rodilla ancho ruedo. (El tiro va recto) 
@@ -133,21 +133,21 @@
 
                 p #[b Menú Objeto/ Convertir a curvas (Ctrl + Q)] o en barra de Barra de Propiedades de un Rectángulo al final del lado derecho.
               .col-lg-6
-                .BorTit.mb-3 Figura 25 Herramienta Convertir a curvas en Corel Draw   
+                .BorTit.mb-3 Figura 25 #[i Herramienta Convertir a curvas en Corel Draw]   
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img54.svg', alt='') 
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 4")
             h4 Paso 4
             p Después de estar listo un lado, duplicar, con Ctrl + D y reflejar horizontalmente
-            .BorTit.mb-3 Figura 26  Herramienta Convertir a curvas en Corel Draw               
+            .BorTit.mb-3 Figura 26  #[i Herramienta Convertir a curvas en Corel Draw]               
             img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img55.svg', alt='')
-            .BorTit.mb-3 Figura 27  Herramienta Convertir a curvas en Corel Draw               
+            .BorTit.mb-3 Figura 27  #[i Herramienta Convertir a curvas en Corel Draw ]              
             img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img56.svg', alt='')
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 5")
             h4 Paso 5
             p Con la Herramienta Soldar seleccionar los objetos que se unirán. (Tener en cuenta que las partes a unir estén completamente rectas para que la línea a unir desaparezca) Dar clic en menú Organizar/Dar forma/Soldar) o en la barra de propiedades
-            .BorTit.mb-3  Figura 28  Herramienta Soldar en Corel Draw               
+            .BorTit.mb-3  Figura 28  #[i Herramienta Soldar en Corel Draw]               
             img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img57.svg', alt='')             
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 6")
@@ -156,7 +156,7 @@
               .col-lg-6            
                 p Para el posterior copiamos con Ctrl+ D (duplicar)2 veces el delantero, cambiar la curva de la cintura hacia afuera 
               .col-lg-6
-                .BorTit.mb-3 Figura 29  Herramienta Duplicar en Corel Draw   
+                .BorTit.mb-3 Figura 29  #[i Herramienta Duplicar en Corel Draw ]
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img58.svg', alt='') 
           .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 7")
             h4 Paso 7
@@ -164,12 +164,12 @@
               .col-lg-6             
                 p Con la herramienta Bézier, realizar los acabados como pretina, boca de bolsillo, cotilla, J, bolillos del posterior y todas las piezas del pantalón. Para cambiar las líneas de continua a punteada se utilizará la herramienta F12 pluma de contorno. 
               .col-lg-6
-                .BorTit.mb-3 Figura 30  Herramienta Bézier y pluma de contorno   
+                .BorTit.mb-3 Figura 30  #[i Herramienta Bézier y pluma de contorno]   
                 img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img59.svg', alt='')
 
     .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-8
-        img.img-a(data-aos="flip-down")(src='@/assets/ilustraciones/img38.svg', alt='') 
+        img.img-a(data-aos="flip-down")(src='@/assets/ilustraciones/img38.png', alt='') 
     .row.justify-content-center.align-items-center.mt-5.pasos-bg-1
       .col-lg-10
         PasosA.color-acento-contenido.my-5(tipo="n")
@@ -177,7 +177,7 @@
             .col-md-6
               .row.justify-content-center.align-items-center(data-aos="fade-down")        
                 .col-lg-10.img-card-color-1.p-5
-                  .BorTit.mb-3 Figura 31 Básico de camiseta en Corel Draw 
+                  .BorTit.mb-3 Figura 31 #[i Básico de camiseta en Corel Draw] 
                   img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img39.svg', alt='')       
             .col-md-6.mb-4.mb-md-0
               h4 Paso 1
@@ -187,7 +187,7 @@
             .col-md-6
               .row.justify-content-center.align-items-center(data-aos="fade-down")        
                 .col-lg-10.img-card-color-1.p-5
-                  .BorTit.mb-3 Figura 32 Básico de camiseta T shirt en Corel Draw
+                  .BorTit.mb-3 Figura 32 #[i Básico de camiseta T shirt en Corel Draw]
                   img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img40.svg', alt='')       
             .col-md-6.mb-4.mb-md-0
               h4 Paso 2
@@ -197,7 +197,7 @@
             .col-md-6
               .row.justify-content-center.align-items-center(data-aos="fade-down")        
                 .col-lg-10.img-card-color-1.p-5
-                  .BorTit.mb-3 Figura 33 Diseño de camiseta y camisa con Bézier en Corel Draw 
+                  .BorTit.mb-3 Figura 33 #[i Diseño de camiseta y camisa con Bézier en Corel Draw ]
                   img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img41.svg', alt='')       
             .col-md-6.mb-4.mb-md-0
               h4 Paso 3
@@ -207,11 +207,11 @@
             .col-md-6
               .row.justify-content-center.align-items-center(data-aos="fade-down")        
                 .col-lg-10.img-card-color-1.p-5
-                  .BorTit.mb-3 Figura 34 Herramientas Pluma y Unificar en Illustrator/1 
+                  .BorTit.mb-3 Figura 34 #[i Herramientas Pluma y Unificar en Illustrator/1] 
                   img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img42.svg', alt='')
               .row.justify-content-center.align-items-center.mt-3(data-aos="fade-down")        
                 .col-lg-10.img-card-color-1.p-5
-                  .BorTit.mb-3 Figura 35 Herramientas Pluma y Unificar en Illustrator/2
+                  .BorTit.mb-3 Figura 35 #[i Herramientas Pluma y Unificar en Illustrator/2]
                   img.img-a.img-t.mt-3(data-aos="slide-down")(src='@/assets/ilustraciones/img43.svg', alt='')                          
             .col-md-6.mb-4.mb-md-0
               h4 Paso 4
