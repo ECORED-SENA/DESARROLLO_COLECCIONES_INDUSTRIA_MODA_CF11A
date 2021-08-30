@@ -94,63 +94,64 @@ export default {
   referencias: [
     {
       referencia:
-        'Alba, T. (2016). Diccionario PDF con 80 términos de Diseño Gráfico. Esfera Creativa. ',
+        'Alba, T. (2016). <i>Diccionario PDF con 80 términos de Diseño Gráfico</i>. Esfera Creativa. ',
       link:
         'https://esferacreativa.com/diccionario-de-diseno-grafico/#comments',
     },
     {
       referencia:
-        'Benavente, V. T. L. E. D. A. (2016, 14 agosto). Inkscape for dummies: aplicar máscaras, recortes y otros consejos útiles. LINUX TERRESTRE. ',
+        'Benavente, V. T. L. E. D. A. (2016, 14 agosto). <i>Inkscape for dummies: aplicar máscaras, recortes y otros consejos útiles</i>. LINUX TERRESTRE. ',
       link:
         'https://linuxterrestre.wordpress.com/2016/08/05/inkscape-for-dummies-aplicar-mascaras-recortes-y-otros-consejos-utiles/#:%7E:text=Crear%20una%20figura%20con%20relleno,la%20opci%C3%B3n%20%E2%80%9CAplicar%20m%C3%A1scara%E2%80%9D',
     },
     {
-      referencia: 'CorelDRAW. (2021, 16 febrero). Tutoriales en PDF. ',
+      referencia: '<i>CorelDRAW</i>. (2021, 16 febrero). Tutoriales en PDF. ',
       link: 'https://tutorialesenpdf.com/coreldraw/',
     },
     {
-      referencia: 'CorelDRAW Graphics Suite 2021 | Free Trial. (2021). ',
+      referencia: '<i>CorelDRAW</i> Graphics Suite 2021 | Free Trial. (2021). ',
       link: 'https://www.coreldraw.com/la/pages/items/12100111.html',
     },
     {
-      referencia: 'Destruels Moreno, V. (2020). Trabajando con textos. ',
+      referencia: 'Destruels Moreno, V. (2020). <i>Trabajando con textos</i>. ',
       link:
         'http://aulainformatica.eu/datos/dise%C3%B1o_grafico/inkscape/capitulo5/Textos.pdf',
     },
     {
       referencia:
-        'Developers, I. W. (2019). Inkscape tutorial: BÃ¡sico | Inkscape. Inkscape tutorial: Básico. ',
+        'Developers, I. W. (2019). <i>Inkscape tutorial: BÃ¡sico | Inkscape</i>. Inkscape tutorial: Básico. ',
       link:
         'https://inkscape.org/es-co/doc/tutorials/basic/tutorial-basic.html',
     },
     {
-      referencia: 'Función de “RECORTE”. (2021, 9 mayo). Tu Inkscape. ',
+      referencia: '<i>Función de “RECORTE”</i>. (2021, 9 mayo). Tu Inkscape. ',
       link: 'https://tuikscape.wordpress.com/2018/10/25/funcion-de-recorte/',
     },
     {
       referencia:
-        'Lopez, A. M. L., & Lopez, A. M. L. (2019, 11 junio). TUTORIAL> Maniquí de moda geométrico en CorelDRAW. CORELCLUB.org. ',
+        'Lopez, A. M. L., & Lopez, A. M. L. (2019, 11 junio). <i>TUTORIAL> Maniquí de moda geométrico en CorelDRAW</i>. CORELCLUB.org. ',
       link:
         'http://www.corelclub.org/tutorial-maniqui-de-moda-geometrico-en-coreldraw/',
     },
     {
       referencia:
-        'Perez, D. P. (2015, 21 mayo). Manual corel draw. slideshare. ',
+        'Perez, D. P. (2015, 21 mayo). <i>Manual corel draw</i>. slideshare. ',
       link:
         'https://es.slideshare.net/dianaperezperez777/manual-corel-draw-48456985',
     },
     {
-      referencia: 'Sanchez, A. (2016, 3 mayo). Geometrales. Slideshare.Net.',
+      referencia:
+        'Sanchez, A. (2016, 3 mayo). <i>Geometrales</i>. Slideshare.Net.',
       link: 'https://www.slideshare.net/alinaberciano/geometrales',
     },
     {
       referencia:
-        'Tutoriales de Illustrator. (2021). Tutoriales de Illustrator. ',
+        '<i>Tutoriales de Illustrator</i>. (2021). Tutoriales de Illustrator. ',
       link: 'https://helpx.adobe.com/es/illustrator/tutorials.html',
     },
     {
       referencia:
-        'Yepes Sierra, M. L. (2008). Modulo Taller Corel Draw graphics suite X4. En Corel Draw graphics suite X4 (1.a ed., Vol. 1, pp. 2–120). Corel Draw.',
+        'Yepes Sierra, M. L. (2008). Modulo Taller Corel Draw graphics suite X4. <i>En Corel Draw graphics suite X4 </i>(1.a ed., Vol. 1, pp. 2–120). Corel Draw.',
     },
   ],
   glosario: [

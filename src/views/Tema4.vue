@@ -117,7 +117,7 @@
 
     TabsC.color-acento-contenido.mt-5(data-aos="slide-right")
       .p-3.p-md-4(titulo="Herramienta Sombra")
-        p Escribir un texto con la herramienta para ello y se selecciona, luego clic en la herramienta #[b Sombra].  
+        p Para aplicar #[b efecto] de sombra, el cual da una sensación de tridimensionalidad a los dibujos seleccionados, se elige de la barra de herramientas, la #[b herramienta Sombra], estableciendo el sentido e incluso la intensidad de la sombra.
         .row.justify-content-center.align-items-stretch.my-4
           .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="flip-down")
             .BorTit Figura 43 #[i Herramienta Sombra Corel Draw]
