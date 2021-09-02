@@ -79,7 +79,7 @@
         p El segundo es Illustrator y una de las tantas aplicaciones de Creative Cloud. Es desarrollado y comercializado por Adobe Systems. Adobe Illustrator (AI) es un editor de gráficos vectoriales siendo el primer programa de su tipo de esta compañía para vectorizar. Esto se realiza sobre “mesas de trabajo” que son hojas de tamaño que se pueden cambiar de acuerdo con lo que se va a elaborar y puedo tener desde 1 mesa hasta mil de ellas, aparte de ser editor de vectores también, se pueden crear desde cero de forma artística utilizando sus herramientas de pincel o de pluma o siendo un ayudante en el diseño gráfico.
           br
           br
-          |Otro de los programas a utilizar es el caso de no poseer alguno de los anteriores en Inskape el cual es un #[i software] de libre acceso el cual se descarga en el PC y su utilización es relativamente parecido al Corel Draw. En este #[i software] al igual que los otros dos mencionados es un editor de vectores y se pueden crear imágenes de las cuales ha sido utilizado para animación de personajes de video juegos. 
+          |Otro de los programas a utilizar es el caso de no poseer alguno de los anteriores es Inskape el cual es un #[i software] de libre acceso el cual se descarga en el PC y su utilización es relativamente parecido al Corel Draw. En este #[i software] al igual que los otros dos mencionados es un editor de vectores y se pueden crear imágenes de las cuales ha sido utilizado para animación de personajes de video juegos. 
 
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="fade-down-left")
         .row.justify-content-center.align-items-stretch     

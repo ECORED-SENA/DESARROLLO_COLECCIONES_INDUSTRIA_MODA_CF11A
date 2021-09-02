@@ -61,10 +61,10 @@
 
     .row.justify-content-center.align-items-stretch
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="slide-right")    
-        .BorTit Figura 58 #[i Ficha Costos Insumo Corel Draw]
+        .BorTit Figura 58 #[i Ficha costos insumo Corel Draw]
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img99.svg', alt='')    
       .col-lg-6.bg-cajon-color-1.p-4.border(data-aos="slide-left")     
-        .BorTit Figura 59 #[i Ficha Técnica de prenda Corel Draw]
+        .BorTit Figura 59 #[i Ficha técnica de prenda Corel Draw]
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img100.svg', alt='')             
 
     .bloque-texto-d.color-secundario.p-4.mt-5(data-aos="zoom-in")

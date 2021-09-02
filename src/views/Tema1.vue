@@ -7,7 +7,7 @@
         span 1
       h1 Manejo de herramientas básicas de #[i software]
 
-    p(data-aos="fade-down") En los softwares de diseño se trabajan dos tipos principales de gráficos, gráficos vectoriales y mapas de bits.
+    p(data-aos="fade-down") En los #[i softwares] de diseño se trabajan dos tipos principales de gráficos, gráficos vectoriales y mapas de bits.
     .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-6.card-color-1.p-5.d-none.d-lg-block(data-aos="fade-down-right")  
         ImagenInfografica.color-primario.my-2

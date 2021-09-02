@@ -180,7 +180,7 @@
 
     .bloque-texto-b.color-secundario.p-4.mt-5
       .bloque-texto-b__texto
-        p.mb-0 La creación de textos en los #[i softwares] de diseño vectorial depende de las herramientas y el uso que a ellas se les da, ya que la combinación de ellas y de elementos se pueden lograr efectos profesionales con múltiples posibilidades. Entre otras cosas, se pueden lograr efectos cómo crear un efecto de texto sobredimensionado, o un efecto de texto derritiéndose o de texto cromado y brillante. Las posibilidades son infinitas con el adecuado manejo de ellos.
+        p.mb-0 La creación de textos en los <i> softwares</i> de diseño vectorial depende de las herramientas y el uso que a ellas se les da, ya que la combinación de ellas y de elementos se pueden lograr efectos profesionales con múltiples posibilidades. Entre otras cosas, se pueden lograr efectos cómo crear un efecto de texto sobredimensionado, o un efecto de texto derritiéndose o de texto cromado y brillante. Las posibilidades son infinitas con el adecuado manejo de ellos.
 
 
 </template>
